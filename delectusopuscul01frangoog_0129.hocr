@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./delectusopuscul01frangoog_0129.png"; bbox 0 0 2626 4470; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 245 1719 1176 1896">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 245 1719 1176 1896">
+     <span class='ocr_line' id='line_1_1' title="bbox 245 1719 1176 1794; baseline -0.002 -18"><span class='ocrx_word' id='word_1_1' title='bbox 245 1721 339 1776; x_wconf 70' lang='lat' dir='ltr'>Iuliae</span> <span class='ocrx_word' id='word_1_2' title='bbox 350 1756 437 1773; x_wconf 91' lang='grc'><strong>.....</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 448 1720 542 1778; x_wconf 74' lang='lat' dir='ltr'><strong>incolis</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 560 1739 637 1776; x_wconf 72' lang='lat' dir='ltr'><strong>nuum</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 655 1727 687 1794; x_wconf 54' lang='lat' dir='ltr'>et¹</span> <span class='ocrx_word' id='word_1_6' title='bbox 700 1719 822 1790; x_wconf 79' lang='lat' dir='ltr'><strong>vivendi,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 839 1728 867 1776; x_wconf 78' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_8' title='bbox 884 1721 1053 1790; x_wconf 70' lang='lat' dir='ltr'>aegrotandi,</span> <span class='ocrx_word' id='word_1_9' title='bbox 1073 1729 1101 1776; x_wconf 75' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_10' title='bbox 1119 1739 1176 1774; x_wconf 81' lang='lat' dir='ltr'>me·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 320 1802 568 1896; baseline 0.008 -17"><span class='ocrx_word' id='word_1_11' title='bbox 320 1827 402 1882; x_wconf 64' lang='lat' dir='ltr'>uendi</span> <span class='ocrx_word' id='word_1_12' title='bbox 412 1802 503 1896; x_wconf 65' lang='lat' dir='ltr'>xgenus</span> <span class='ocrx_word' id='word_1_13' title='bbox 520 1836 568 1884; x_wconf 56' lang='lat' dir='ltr'>esu</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 833 1903 1172 1990">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 833 1903 1172 1990">
+     <span class='ocr_line' id='line_1_3' title="bbox 833 1903 1172 1990; baseline -0.012 0"><span class='ocrx_word' id='word_1_14' title='bbox 833 1903 967 1990; x_wconf 59' lang='lat' dir='ltr'>marinae.</span> <span class='ocrx_word' id='word_1_15' title='bbox 988 1938 1075 1987; x_wconf 74' lang='lat' dir='ltr'><em>Auser.</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1098 1935 1172 1987; x_wconf 76' lang='lat'>1820.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1318 4470">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1318 4470">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1318 4470; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1318 4470; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
